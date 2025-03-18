@@ -10,3 +10,4 @@ c=a/b
 print(f"the division of {a},{b} is {c}")
 c=a*b
 print(f"the multiplication of {a},{b} is {c}")
+print(f"the multiplication of {a},{b} is {c}")
